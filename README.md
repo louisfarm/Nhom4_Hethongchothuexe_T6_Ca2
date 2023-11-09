@@ -24,7 +24,7 @@ Với Luxury Car , bạn không cần phải sở hữu một chiếc xe để d
 
 ![z4799057621115_5e606c068beeb9abf7e2c21e65e5b70a](https://github.com/louisfarm/QLXe/assets/117491243/d2528233-806d-4f15-99eb-7d0832c2c26b)
 ## Chức năng chính
-* Quản lí xe 
+* Quản lí xe : Cho phép quản lí thêm sửa xe 
 * Quản lí loại xe
 * Đặt xe
 * Hợp Đồng 
