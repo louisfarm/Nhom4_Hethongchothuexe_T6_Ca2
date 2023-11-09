@@ -24,13 +24,15 @@ Với Luxury Car , bạn không cần phải sở hữu một chiếc xe để d
 
 ![z4799057621115_5e606c068beeb9abf7e2c21e65e5b70a](https://github.com/louisfarm/QLXe/assets/117491243/d2528233-806d-4f15-99eb-7d0832c2c26b)
 ## Chức năng chính
-* Quản lí xe 
-* Quản lí loại xe
-* Đặt xe
-* Hợp Đồng 
-* Thanh toán
+* Quản lí xe : Tính năng cho phép quản lí thêm,sửa tên xe do công ty yêu cầu 
+* Quản lí loại xe :Tính năng cho phép quản lí thêm,sửa tên loại xe do công ty yêu cầu 
+* Đặt xe : Tính năng đặt xe là do bộ phận kế toán trong lúc chăm sóc khách hàng sẽ tiến hành giúp khách đặt xe giữ chỗ 
+* Hợp Đồng : Từ tính năng đặt xe sẽ đưa người dùng đến tạo hợp đồng có tính năng chả trước 50% số tiền sau đó khi trả xe 
+* Thanh toán : Lúc thanh toán thanh công số tiền 50% còn lại sẽ lưu vào sổ xe
+* Sổ Xe : Lưu lại toàn bộ dữ liệu của khách hàng thuê xe nào vào ngày tháng năm nào
 ## Chức năng phát triển thêm
-* Thanh Toán QR
+* Thanh Toán QR : Tiến hành dùng Zalo pay kết nối để đặt thanh toán thuê xe
 ## Công nghệ sử dụng 
 * Sử dụng công nghệ PHP
-* ![php-la-gi_1](https://github.com/nguyenthanhnghiep/Nhom4_Hethongchothuexe_T6_Ca2/assets/117718527/e9a349c4-6c6d-471f-9d0b-7c5ca7d643ff)
+ ![php-la-gi_1](https://github.com/nguyenthanhnghiep/Nhom4_Hethongchothuexe_T6_Ca2/assets/117718527/e9a349c4-6c6d-471f-9d0b-7c5ca7d643ff)
+
